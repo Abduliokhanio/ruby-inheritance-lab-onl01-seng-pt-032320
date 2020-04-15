@@ -10,4 +10,8 @@ class User
     @knowledge << text
   end
 
+  def knowledge
+    @knowledge
+  end
+
 end
