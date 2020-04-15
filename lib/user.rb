@@ -1,2 +1,7 @@
 class User
-end 
+
+  def initialize
+  end
+
+
+end
